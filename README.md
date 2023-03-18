@@ -15,11 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![]()
+![](./screenshots/screenshot.png)
 
 ### Links
 
-- Solution URL: [link]()
 - Live Site URL: [link]()
 
 ## My process
